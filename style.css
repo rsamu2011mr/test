@@ -4,7 +4,7 @@ html { scroll-behavior: smooth; }
 
 /* --- BROWN PALETTE --- */
 :root {
-  --bg-page: #fdfbf7;       /* Cream Background */
+  --bg-page: #ff8888;       /* Cream Background #fdfbf7*/
   --bg-card: #ffffff;       /* White Card */
   --text-dark: #3e2723;     /* Dark Coffee Text */
   --text-muted: #5d4037;    /* Light Brown Text */
@@ -152,4 +152,5 @@ footer { padding: 60px 20px; background-color: var(--bg-page); color: var(--text
 }
 
 .privacy-box h4 { margin: 0 0 10px 0; color: var(--text-dark); }
+
 .footer-text { font-size: 0.85em; color: #9d8b85; margin-top: 30px; }
